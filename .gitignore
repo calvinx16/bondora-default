@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Env
+venv/
+.env
+
+# OS
+.DS_Store
+
+# Data
+*.csv
+*.xlsx
